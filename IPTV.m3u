@@ -8,15 +8,15 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT Belgesel TR
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="BELGESEL" tvg-id="NatgeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="https://static.epg.best/tr/NatGeo.tr.png" tvg-logo-small="https://static.epg.best/tr/NatGeo.tr.png" ,Nat Geo HD
-https://saran-live.ercdn.net/natgeohd/index.m3u8
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1845660630/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="NatGeo.tr" tvg-name="National Geographic TR" tvg-logo="https://static.epg.best/tr/NatGeo.tr.png" tvg-logo-small="https://static.epg.best/tr/NatGeo.tr.png" ,National Geographic TR
 http://fullvippro.net:8080/ultraserv1020/suT9nnb/640540
 #EXTINF:-1 group-title="BELGESEL" tvg-id="natgeowild.tr" tvg-name="Nat Geo Wild" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-logo-small="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" ,Nat Geo Wild
 http://fullvippro.net:8080/ultraserv1020/suT9nnb/640541
 #EXTINF:0 group-title="BELGESEL" tvg-id="NatGeoWild.tr" tvg-name="Nat Geo Wild" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-logo-small="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" ,Nat Geo Wild HD
-http://norsvpx.top:8080/231679575500969074/1511679575500969/57996
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3320654968/index.m3u8
 #EXTINF:0 group-title="BELGESEL" tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-logo-small="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" ,National Geographic Wild
-https://saran-live.ercdn.net/natgeowild/index.m3u8
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1999823186/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="viasathistory.tr" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" ,History Channel
 https://tv1.arectv30.sbs/live/history.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="ViasatHistory.tr" tvg-name="Viasat History TR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-5cvBD8vZPDAKOXUu0Vm9prOACcibyMFw&s" ,Viasat History TR
@@ -24,13 +24,13 @@ https://tv1.arectv30.sbs/live/viasathistory.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="bbcearth.tr" tvg-name="BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,BBC Earth
 https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="beINGurme.tr" tvg-name="beIN Gurme TR" tvg-logo="https://static.epg.best/tr/beINGurme.tr.png" ,beIN Gurme TR
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3617035414/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://static.epg.best/tr/beINiz.tr.png" ,beIN İZ TR
-https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1691223078/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="Animal Planet TR" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png" ,Animal Planet TR
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432152
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2110161355/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="DaVinciLearning.tr" tvg-name="Da Vinci Learning TR" tvg-logo="http://platinumxmedia.xyz:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png" ,Da Vinci Learning TR
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432228
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1268465409/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="DiscoveryChannel.tr" tvg-name="Discovery Channel TR" tvg-logo="https://static.epg.best/tr/DiscoveryChannel.tr.png" ,Discovery Channel TR
 https://tv1.arectv30.sbs/live/discovery.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-name="Discovery ID TR" tvg-logo="https://static.epg.best/tr/DiscoveryChannel.tr.png" ,Discovery ID
