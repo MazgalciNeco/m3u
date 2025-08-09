@@ -6,7 +6,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="https://static.epg.best/tr/TLC.tr.png" ,TLC TR
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT Belgesel TR
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+http://176.65.146.123:6001/play/a01l/index.m3u8
 #EXTINF:0 group-title="BELGESEL" tvg-id="NatgeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="https://static.epg.best/tr/NatGeo.tr.png" tvg-logo-small="https://static.epg.best/tr/NatGeo.tr.png" ,Nat Geo HD
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1845660630/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="NatGeo.tr" tvg-name="National Geographic TR" tvg-logo="https://static.epg.best/tr/NatGeo.tr.png" tvg-logo-small="https://static.epg.best/tr/NatGeo.tr.png" ,National Geographic TR
@@ -24,9 +24,9 @@ https://tv1.arectv30.sbs/live/viasathistory.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="bbcearth.tr" tvg-name="BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s" ,BBC Earth
 https://tv1.arectv30.sbs/live/bbc.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="beINGurme.tr" tvg-name="beIN Gurme TR" tvg-logo="https://static.epg.best/tr/beINGurme.tr.png" ,beIN Gurme TR
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3617035414/index.m3u8
+http://rs0811.xyz:8080//brh6168/EKpKrPfjkvvR/6302
 #EXTINF:-1 group-title="BELGESEL" tvg-id="beINiz.tr" tvg-name="beIN İZ TR" tvg-logo="https://static.epg.best/tr/beINiz.tr.png" ,beIN İZ TR
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1691223078/index.m3u8
+http://rs0811.xyz:8080//brh6168/EKpKrPfjkvvR/105919
 #EXTINF:-1 group-title="BELGESEL" tvg-name="Animal Planet TR" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png" ,Animal Planet TR
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2110161355/index.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="DaVinciLearning.tr" tvg-name="Da Vinci Learning TR" tvg-logo="http://platinumxmedia.xyz:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png" ,Da Vinci Learning TR
@@ -80,7 +80,7 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT TR" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" ,Bloomberg HT TR
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="CNNTurk.tr" tvg-name="CNN Turk TR" tvg-logo="https://static.epg.best/tr/CNNTurk.tr.png" ,CNN Turk TR
-https://b.fulltvizle.com/cnn/playlist.m3u8
+http://176.65.146.123:6002/play/a00z/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="FlashTV.tr" tvg-name="Flash TV TR" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" ,Flash TV TR
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="HaberGlobal.tr" tvg-name="Haber Global TR" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" ,Haber Global TR
