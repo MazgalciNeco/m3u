@@ -195,3 +195,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-name="CNBC-E" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-e-us-tr.png" group-title="ULUSAL",CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#EXTINF:-1 tvg-name="Gentleman" tvg-id="" tvg-Logo="" group-title="VOD",Gentleman
+https://fqpy8ovqad.guardstorage.net/hls_3/YbTIWVC7a1ZtoncyVHklDd03Ou26YUWkNuZetL14Sc2CCZh3Thi2sEWoV-A9H-s2GuiNtgJ1faHwmpiLQ41NRg/master.m3u8?sig=uDI68ri5wEZKJPtsqMXZWQ&expires=1756901477
+
