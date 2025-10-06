@@ -1,24 +1,34 @@
 #EXTM3U
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" ,BEIN SPORTS 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330762&extension=m3u8
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS2.tr" tvg-name="beIN SPORTS 2" ,BEIN SPORTS 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330768&extension=m3u8
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS3.tr" tvg-name="beIN SPORTS 3" ,BEIN SPORTS 3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330772&extension=m3u8
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS4.tr" tvg-name="beIN SPORTS 4" ,BEIN SPORTS 4
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330772&extension=m3u8
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTSMAX1.tr" tvg-name="beIN SPORTS MAX 1" ,BEIN SPORTS MAX 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330782&extension=m3u8
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTSMAX2.tr" tvg-name="beIN SPORTS MAX 2" ,BEIN SPORTS MAX 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330784&extension=m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="DMAX.tr" tvg-name="DMAX TR" tvg-logo="https://static.epg.best/tr/TLC.tr.png" ,DMAX TR
-https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w5614452.m3u8?hash=51ae50c8b083bb5cec53f15b705b438b
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-name="TGRT Belgesel TR" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" ,TGRT Belgesel TR
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="https://static.epg.best/tr/TLC.tr.png" ,TLC TR
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT Belgesel TR
-https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:0 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel TR" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" tvg-logo-small="https://i.ibb.co/MkvY46q/trt-belgesel.png" ,TRT Belgesel HD
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="BELGESEL" tvg-id="NatgeoPeople.tr" tvg-name="Nat Geo People TR" tvg-logo="https://static.epg.best/tr/NatGeo.tr.png" tvg-logo-small="https://static.epg.best/tr/NatGeo.tr.png" ,Nat Geo HD
 http://mutlutv.xyz:8080/brh6168/EKpKrPfjkvvR/6286
 #EXTINF:-1 group-title="BELGESEL" tvg-id="NatGeo.tr" tvg-name="National Geographic TR" tvg-logo="https://static.epg.best/tr/NatGeo.tr.png" tvg-logo-small="https://static.epg.best/tr/NatGeo.tr.png" ,National Geographic TR
 http://mutlutv.xyz:8080/brh6168/EKpKrPfjkvvR/6286
-#EXTINF:-1 group-title="BELGESEL" tvg-id="natgeowild.tr" tvg-name="Nat Geo Wild" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-logo-small="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" ,Nat Geo Wild
-http://mutlutv.xyz:8080/brh6168/EKpKrPfjkvvR/6287
 #EXTINF:0 group-title="BELGESEL" tvg-id="NatGeoWild.tr" tvg-name="Nat Geo Wild" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-logo-small="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" ,Nat Geo Wild HD
-http://mutlutv.xyz:8080/brh6168/EKpKrPfjkvvR/6287
+http://spectreu.com:8080/Ramadanbey/VDsSXgkdCo/376516
 #EXTINF:0 group-title="BELGESEL" tvg-id="NationalGeographic.tr" tvg-name="National Geographic" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" tvg-logo-small="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" ,National Geographic Wild
-http://mutlutv.xyz:8080/brh6168/EKpKrPfjkvvR/6287
+http://spectreu.com:8080/Ramadanbey/VDsSXgkdCo/376516
 #EXTINF:-1 group-title="BELGESEL" tvg-id="viasathistory.tr" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" ,History Channel
 http://spectreu.com:8080/Ramadanbey/VDsSXgkdCo/376517
 #EXTINF:-1 group-title="BELGESEL" tvg-id="ViasatHistory.tr" tvg-name="Viasat History TR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-5cvBD8vZPDAKOXUu0Vm9prOACcibyMFw&s" ,Viasat History TR
@@ -46,7 +56,7 @@ http://mutlutv.xyz:8080/brh6168/EKpKrPfjkvvR/35998
 #EXTINF:-1 group-title="BELGESEL" tvg-name="Love Nature TR" tvg-logo="http://platinumxmedia.xyz:8080/images/32167cf1f862054f6c6c323d38a1f2f2.png" ,Love Nature TR
 http://mutlutv.xyz:8080/hll0375/hh00/22098
 #EXTINF:0 group-title="BELGESEL" tvg-id="TarihTv.tr" tvg-name="Tarih Tv TR" ,Tarih TV
-https://tv1.arectv30.sbs/live/tarihtv.m3u8
+http://spectreu.com:8080/Ramadanbey/VDsSXgkdCo/343629
 #EXTINF:-1 group-title="GERMAN" tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://static.epg.best/de/ARD.de.png" ,Das Erste DE
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="GERMAN" tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://static.epg.best/de/ZDF.de.png" ,ZDF DE
@@ -104,7 +114,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="NTV.tr" tvg-name="NTV TR" tvg-logo="https://static.epg.best/tr/NTV.tr.png" ,NTV TR
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="SozcuTV.tr" tvg-name="SZCTR" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" ,SZCTR
-https://izle.canlitvapp.com/sozcu/index.m3u8
+https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="Tele1.tr" tvg-name="Tele 1 TR" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" ,Tele 1 TR
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="HABER" tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber TR" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tgrt-haber.png" ,TGRT Haber TR
