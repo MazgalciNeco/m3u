@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" ,BEIN SPORTS 1
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS1.tr" tvg-name="beIN SPORTS 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" tvg-logo-small="https://static.epg.best/tr/beINSports1.tr.png" ,BEIN SPORTS 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330762&extension=m3u8
-#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS2.tr" tvg-name="beIN SPORTS 2" ,BEIN SPORTS 2
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS2.tr" tvg-name="beIN SPORTS 2" tvg-logo="https://static.epg.best/tr/beINSports2.tr.png" tvg-logo-small="https://static.epg.best/tr/beINSports2.tr.png" ,BEIN SPORTS 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330768&extension=m3u8
-#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS3.tr" tvg-name="beIN SPORTS 3" ,BEIN SPORTS 3
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS3.tr" tvg-name="beIN SPORTS 3" tvg-logo="https://static.epg.best/tr/beINSports3.tr.png" tvg-logo-small="https://static.epg.best/tr/beINSports3.tr.png" ,BEIN SPORTS 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330772&extension=m3u8
-#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS4.tr" tvg-name="beIN SPORTS 4" ,BEIN SPORTS 4
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTS4.tr" tvg-name="beIN SPORTS 4" tvg-logo="https://static.epg.best/tr/beINSports4.tr.png" tvg-logo-small="https://static.epg.best/tr/beINSports4.tr.png" ,BEIN SPORTS 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330772&extension=m3u8
-#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTSMAX1.tr" tvg-name="beIN SPORTS MAX 1" ,BEIN SPORTS MAX 1
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTSMAX1.tr" tvg-name="beIN SPORTS MAX 1" tvg-logo="https://static.epg.best/tr/beINSportsMax1.tr.png" tvg-logo-small="https://static.epg.best/tr/beINSportsMax1.tr.png" ,BEIN SPORTS MAX 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330782&extension=m3u8
-#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTSMAX2.tr" tvg-name="beIN SPORTS MAX 2" ,BEIN SPORTS MAX 2
+#EXTINF:0 group-title="BEIN SPORTS TR" tvg-id="beINSPORTSMAX2.tr" tvg-name="beIN SPORTS MAX 2" tvg-logo="https://static.epg.best/tr/beINSportsMax2.tr.png" tvg-logo-small="https://static.epg.best/tr/beINSportsMax2.tr.png" ,BEIN SPORTS MAX 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330784&extension=m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="DMAX.tr" tvg-name="DMAX TR" tvg-logo="https://static.epg.best/tr/TLC.tr.png" ,DMAX TR
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
